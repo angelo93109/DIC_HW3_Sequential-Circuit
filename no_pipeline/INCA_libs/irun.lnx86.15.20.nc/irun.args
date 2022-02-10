@@ -1,0 +1,13 @@
+//
+// File created by:  irun
+// Do not modify this file
+//
+TESTBED_Convolution.v
+-define
+GATE
+-debug
+-v
+/disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SIMPLE_RVT_TT_08302018.v
+/disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SEQ_RVT_TT_08302018.v
+/disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_INVBUF_RVT_TT_08302018.v
+-nontcglitch
