@@ -1,0 +1,67 @@
+s1(12Nov2021:18:53:35):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s2(12Nov2021:18:54:23):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s3(12Nov2021:18:54:38):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s4(12Nov2021:18:54:39):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s5(12Nov2021:18:56:23):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s6(12Nov2021:18:56:37):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s7(12Nov2021:18:57:45):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s8(12Nov2021:18:59:14):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s9(12Nov2021:18:59:15):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s10(12Nov2021:19:00:20):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s11(12Nov2021:19:01:45):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s12(12Nov2021:19:05:33):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s13(12Nov2021:19:05:47):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s14(13Nov2021:14:05:54):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s15(13Nov2021:14:30:14):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s16(13Nov2021:14:31:20):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s17(13Nov2021:14:46:34):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s18(13Nov2021:14:49:05):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s19(13Nov2021:14:49:21):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s20(13Nov2021:14:55:43):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s21(13Nov2021:15:06:18):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s22(13Nov2021:15:12:05):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s23(16Nov2021:11:19:45):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s24(16Nov2021:11:20:35):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s25(16Nov2021:11:21:51):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s26(16Nov2021:11:22:23):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s27(16Nov2021:11:42:02):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s28(16Nov2021:11:42:45):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s29(16Nov2021:11:42:47):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s30(16Nov2021:11:42:47):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s31(16Nov2021:11:42:47):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s32(16Nov2021:11:43:22):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s33(16Nov2021:11:44:14):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s34(16Nov2021:11:46:01):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s35(16Nov2021:11:52:25):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s36(16Nov2021:12:11:56):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s37(16Nov2021:12:51:29):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s38(16Nov2021:17:17:19):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s39(16Nov2021:17:51:09):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s40(17Nov2021:17:47:33):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s41(17Nov2021:17:48:20):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s42(17Nov2021:17:56:52):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s43(17Nov2021:18:07:50):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s44(18Nov2021:01:40:38):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s45(18Nov2021:01:41:40):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s46(18Nov2021:01:43:34):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s47(18Nov2021:01:47:56):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s48(18Nov2021:01:49:38):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s49(18Nov2021:01:51:01):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s50(18Nov2021:01:54:51):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s51(18Nov2021:01:54:56):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s52(18Nov2021:02:02:56):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s53(18Nov2021:02:04:02):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s54(18Nov2021:02:05:12):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s55(18Nov2021:02:09:10):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s56(18Nov2021:02:14:10):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s57(18Nov2021:02:16:29):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s58(18Nov2021:02:23:13):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s59(18Nov2021:02:29:25):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s60(18Nov2021:02:34:15):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s61(18Nov2021:02:47:55):  irun TESTBED_Convolution.v -define RTL -debug -notimingchecks 
+s62(18Nov2021:12:19:35):  irun TESTBED_Convolution.v -define GATE -debug -v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SIMPLE_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SEQ_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_INVBUF_RVT_TT_08302018.v -nontcglitch 
+s63(18Nov2021:12:20:30):  irun TESTBED_Convolution.v -define GATE -debug -v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SIMPLE_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SEQ_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_INVBUF_RVT_TT_08302018.v -nontcglitch 
+s64(18Nov2021:12:21:44):  irun TESTBED_Convolution.v -define GATE -debug -v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SIMPLE_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SEQ_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_INVBUF_RVT_TT_08302018.v -nontcglitch 
+s65(18Nov2021:12:23:25):  irun TESTBED_Convolution.v -define GATE -debug -v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SIMPLE_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SEQ_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_INVBUF_RVT_TT_08302018.v -nontcglitch 
+s66(18Nov2021:12:27:04):  irun TESTBED_Convolution.v -define GATE -debug -v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SIMPLE_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SEQ_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_INVBUF_RVT_TT_08302018.v -nontcglitch 
+s67(18Nov2021:18:07:39):  irun TESTBED_Convolution.v -define GATE -debug -v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SIMPLE_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_SEQ_RVT_TT_08302018.v /disk2/others/dsd_310591036/DIC_hw/NLDM/Verilog/asap7sc7p5t_INVBUF_RVT_TT_08302018.v -nontcglitch 
